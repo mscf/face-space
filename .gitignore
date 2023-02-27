@@ -1,0 +1,7 @@
+__pycache__
+afhq
+env
+results
+.ipynb_checkpoints/
+*.swp
+
